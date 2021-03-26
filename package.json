@@ -1,0 +1,9 @@
+{
+  "name": "jobs-calc",
+  "version": "1.0.0",
+  "description": "Maratona Discover 02 - Rocketseat",
+  "main": "index.js",
+  "repository": "git@github.com:caiocichetti/jobs-calc.git",
+  "author": "Caio Cichetti <caio_cichetti@outlook.com>",
+  "license": "MIT"
+}
