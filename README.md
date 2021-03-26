@@ -43,5 +43,5 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](./LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]([./LICENSE.md](https://github.com/caiocichetti/jobs-calc/blob/main/LICENSE)) para mais detalhes.
 
