@@ -13,9 +13,9 @@ const profile = {
 };
 
 routes.get('/', (req, res) => res.render(`${viewsPath}/index`));
-routes.get('/job', (req, res) => res.render(`${viewsPath}/job`));
-routes.get('/job/edit', (req, res) => res.render(`${viewsPath}/job-edit`));
-routes.get('/profile', (req, res) =>
+routes.get('/jobs', (req, res) => res.render(`${viewsPath}/job`));
+routes.get('/jobs/edit', (req, res) => res.render(`${viewsPath}/job-edit`));
+routes.get('/profiles', (req, res) =>
   res.render(`${viewsPath}/profile`, { profile })
 );
 
