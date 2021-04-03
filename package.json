@@ -1,24 +1,19 @@
 {
   "name": "jobs-calc",
   "version": "1.0.0",
-  "description": "Maratona Discover 02 - Rocketseat",
+  "description": "Freelance Calculator",
   "main": "src/server.js",
   "scripts": {
-    "dev": "nodemon .",
-    "prepare": "husky install"
+    "dev": "nodemon ."
   },
   "keywords": [],
-  "repository": "git@github.com:caiocichetti/jobs-calc.git",
-  "author": "Caio Cichetti <caio_cichetti@outlook.com>",
+  "author": "Caio Cichetti",
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@commitlint/config-conventional": "^12.0.1",
-    "commitlint": "^12.0.1",
-    "husky": "^5.2.0",
     "nodemon": "^2.0.7"
   }
 }
