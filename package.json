@@ -5,6 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "dev": "nodemon .",
+    "init-db": "node src/db/init.js",
     "prepare": "husky install"
   },
   "keywords": [],
@@ -13,7 +14,9 @@
   "license": "MIT",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "sqlite": "^4.0.21",
+    "sqlite3": "^5.0.2"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^12.0.1",
